@@ -22,3 +22,4 @@ International students applying to U.S. undergraduate programs often struggle to
 |---|---|
 | [HW 2.2 Design Work](./hw2.2-design-work/) | Contains the team's early problem-definition, class exercises, and design work. |
 | [HW 3 Interviews](./hw3-interviews/) | Contains the interview scripts, AI interview prompts, complete interview records, and post-interview snapshots. |
+| [HW 4 Synthesis and Brand Position](./hw4-synthesis-brand-position/) | Contains the interview synthesis comparison, Reddit research, persona agents, brand position, style guide, logo assets, and coding-repository setup. |
